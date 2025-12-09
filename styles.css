@@ -1,0 +1,23 @@
+.d-flex {
+    display: flex;
+    justify-content: space-between;
+    right;
+
+}
+
+img {
+    width: 100px
+}
+
+a {
+    display: inline;
+
+
+}
+
+.block {
+    height: 300px;
+    width: 300px;
+    background-color: aqua;
+    display: inline-block;
+}
